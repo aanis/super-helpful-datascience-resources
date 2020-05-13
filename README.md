@@ -100,4 +100,4 @@
 
 [Data Fallacies to Avoid](https://i.redd.it/itul8iw6z6p31.jpg)
 
-**If you would like to contribute a super helpful resource please issue a pull request thanks!**
+
