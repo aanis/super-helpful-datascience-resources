@@ -1,2 +1,101 @@
-# datascience-resources
-The go-to-resources for data science practitioners 
+# Data Science Resources
+
+## Data Science Courses
+
+[Kaggle Mini Courses](https://www.kaggle.com/learn/overview)
+
+## Python
+
+[Learn Python in 1 Week](https://coderbyte.com/course/learn-python-in-one-week)
+
+[Python Cheat Sheet](https://imgur.com/gallery/ri6H5)
+
+## Pandas
+
+[Python Pandas Course](https://bitbucket.org/hrojas/learn-pandas/src/master/)
+
+[Pandas Official Tutorial](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
+
+[Pandas Official Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+[Visualize Pandas DataFrame](https://github.com/man-group/dtale)
+
+[Reference Guide: Teach Me How To Pandas](https://github.com/io99/Resources/blob/master/Pandas%20Reference%20Guide.md)
+
+[Translating SQL to Pandas](http://sergilehkyi.com/translating-sql-to-pandas/)
+
+## Exploratory Data Analysis
+
+[Comprehensive Data Exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+
+[Python Plotting for Exploratory Data Analysis](https://pythonplot.com)
+
+## NLP
+
+[Roundup of Python NLP Libraries](https://nlpforhackers.io/libraries/)
+
+## Network Analysis
+
+[Python Visual Network Graphs](https://pyvis.readthedocs.io/en/latest/tutorial.html)
+
+## SQL
+
+[SQL Interactive Tutorial SQLBolt](https://sqlbolt.com)
+
+[SQL Interactive Tutorial SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+
+[SQL Cheat Sheet](https://github.com/Hornbill201/SQL-cheatsheet)
+
+[A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+
+## Machine Learning
+
+[Machine Learning Github Code Resources](https://docs.google.com/document/d/e/2PACX-1vRRC3ZIcvjFqEYEgnN9pptoWONr2mSGZJ4hSdL8Jpf2IpXdxjTc-d3jrpb98h59xJnZ3h1frUDydoxc/pub)
+
+[Machine Learning Explained By Emojis](https://storage.ning.com/topology/rest/1.0/file/get/2808313122?profile=original)
+
+[Machine Learning Latest Papers with Code](https://paperswithcode.com)
+
+[Make Machine Learning Web Apps](https://docs.streamlit.io)
+
+[Google Machine Learning Code in Colab Notebook](https://aihub.cloud.google.com/u/0/s?category=notebook)
+
+## No Code Machine Learning
+
+[Teachable Machine](https://teachablemachine.withgoogle.com)
+
+## Github
+
+[How the heck do I use Github?](https://lifehacker.com/how-the-heck-do-i-use-github-5983680)
+
+[Github Tutorials](https://lab.github.com)
+
+[Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+## ETL
+
+[Guide to ETL](https://www.stitchdata.com/etldatabase/)
+
+## Tableau
+
+[Tableau Starter Kits](https://www.tableau.com/learn/starter-kits)
+
+## Cloud Training
+
+[Hands-On Google Cloud Training](https://www.qwiklabs.com)
+
+[AWS Digital Courses](https://www.aws.training/LearningLibrary?&search=&tab=digital_courses)
+
+[AWS Machine Learning Guide](https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html)
+
+## Data Science Interview Prep
+
+[Data Science Interview Guide](https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources/)
+
+[120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
+
+## Cool Information  
+
+[Data Fallacies to Avoid](https://i.redd.it/itul8iw6z6p31.jpg)
+
+### If you would like to contribute a super helpful resource please issue a pull request thanks!
