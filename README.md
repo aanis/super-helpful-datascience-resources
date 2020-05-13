@@ -1,6 +1,6 @@
 # Super Helpful Data Science Resources
 
-[!](https://media-exp1.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/0?e=1594857600&v=beta&t=mqWntuqJlGh2c270zlpTKaW0teCYEMPY0YiD7IcXGaw)
+[](https://media-exp1.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/0?e=1594857600&v=beta&t=mqWntuqJlGh2c270zlpTKaW0teCYEMPY0YiD7IcXGaw)
 
 ## Data Science Courses
 
