@@ -74,6 +74,10 @@
 
 [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
+## A/B Testing
+
+[Guidelines for A/B Testing](https://hookedondata.org/guidelines-for-ab-testing/)
+
 ## ETL
 
 [Guide to ETL](https://www.stitchdata.com/etldatabase/)
