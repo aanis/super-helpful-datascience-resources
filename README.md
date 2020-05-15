@@ -12,6 +12,10 @@
 
 [Python Cheat Sheet](https://imgur.com/gallery/ri6H5)
 
+[PEP 8 — the Style Guide for Python Code](https://pep8.org)
+
+[pytest: unit testing](https://docs.pytest.org/en/latest/#)
+
 ## Pandas
 
 [Python Pandas Course](https://bitbucket.org/hrojas/learn-pandas/src/master/)
