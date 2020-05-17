@@ -50,6 +50,8 @@
 
 [SQL Interactive Tutorial SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
+[SQL Interactive Tutorial SQL Mode](https://mode.com/sql-tutorial/introduction-to-sql/)
+
 [SQL Cheat Sheet](https://github.com/Hornbill201/SQL-cheatsheet)
 
 [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
