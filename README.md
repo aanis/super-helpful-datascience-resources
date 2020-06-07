@@ -40,6 +40,8 @@
 
 ## NLP
 
+[The Super Duper NLP Repo](https://notebooks.quantumstat.com)
+
 [Roundup of Python NLP Libraries](https://nlpforhackers.io/libraries/)
 
 ## Network Analysis
