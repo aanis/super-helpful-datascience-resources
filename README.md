@@ -10,6 +10,8 @@
 
 [Learn Python in 1 Week](https://coderbyte.com/course/learn-python-in-one-week)
 
+[Calm Code: Python Coding Hacks](https://calmcode.io)
+
 [Python Cheat Sheet](https://imgur.com/gallery/ri6H5)
 
 [PEP 8 — the Style Guide for Python Code](https://pep8.org)
