@@ -8,25 +8,25 @@
 
 ## Python
 
-[Learn Python in 1 Week](https://coderbyte.com/course/learn-python-in-one-week)
+[Coderbyte: Learn Python in 1 Week](https://coderbyte.com/course/learn-python-in-one-week)
 
 [Calm Code: Python Coding Hacks](https://calmcode.io)
 
 [Python Cheat Sheet](https://imgur.com/gallery/ri6H5)
 
-[PEP 8 — the Style Guide for Python Code](https://pep8.org)
+[PEP 8: The Style Guide for Python Code](https://pep8.org)
 
 [pytest: unit testing](https://docs.pytest.org/en/latest/#)
 
 ## Pandas
 
-[Python Pandas Course](https://bitbucket.org/hrojas/learn-pandas/src/master/)
+[Bitbucket: Python Pandas Course](https://bitbucket.org/hrojas/learn-pandas/src/master/)
 
 [Pandas Official Tutorial](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
 
 [Pandas Official Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
-[Visualize Pandas DataFrame](https://github.com/man-group/dtale)
+[DTale: Visualize Pandas DataFrame](https://github.com/man-group/dtale)
 
 [Reference Guide: Teach Me How To Pandas](https://github.com/io99/Resources/blob/master/Pandas%20Reference%20Guide.md)
 
@@ -34,9 +34,9 @@
 
 ## Exploratory Data Analysis
 
-[Comprehensive Data Exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+[Kaggle: Comprehensive Data Exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
-[Python Plotting for Exploratory Data Analysis](https://pythonplot.com)
+[PythonPlot: Python Plotting for Exploratory Data Analysis](https://pythonplot.com)
 
 ## NLP
 
@@ -50,11 +50,11 @@
 
 ## SQL
 
-[SQL Interactive Tutorial SQLBolt](https://sqlbolt.com)
+[SQLBolt: SQL Interactive Tutorial](https://sqlbolt.com)
 
-[SQL Interactive Tutorial SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+[SQLZoo: SQL Interactive Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
 
-[SQL Interactive Tutorial SQL Mode](https://mode.com/sql-tutorial/introduction-to-sql/)
+[SQL Mode: SQL Interactive Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
 
 [SQL Cheat Sheet](https://github.com/Hornbill201/SQL-cheatsheet)
 
@@ -68,7 +68,7 @@
 
 [Machine Learning Latest Papers with Code](https://paperswithcode.com)
 
-[Make Machine Learning Web Apps](https://docs.streamlit.io)
+[Streamlit: Make Machine Learning Web Apps](https://docs.streamlit.io)
 
 [Google Machine Learning Code in Colab Notebook](https://aihub.cloud.google.com/u/0/s?category=notebook)
 
