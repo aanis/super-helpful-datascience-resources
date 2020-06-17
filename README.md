@@ -18,6 +18,10 @@
 
 [pytest: unit testing](https://docs.pytest.org/en/latest/#)
 
+## Data Structures and Algorithms
+
+[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+
 ## Pandas
 
 [Bitbucket: Python Pandas Course](https://bitbucket.org/hrojas/learn-pandas/src/master/)
@@ -72,6 +76,8 @@
 
 [Google Machine Learning Code in Colab Notebook](https://aihub.cloud.google.com/u/0/s?category=notebook)
 
+[auto-sklearn¶](https://automl.github.io/auto-sklearn/master/)
+
 ## No Code Machine Learning
 
 [Teachable Machine](https://teachablemachine.withgoogle.com)
@@ -110,8 +116,12 @@
 
 [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
 
+[Technical interview questions](https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md)
+
 ## Cool Information  
 
 [Data Fallacies to Avoid](https://i.redd.it/itul8iw6z6p31.jpg)
+
+[Google Colab Shortcuts](https://heartbeat.fritz.ai/tensorflow-dev-summit-2020-top-10-tricks-for-tensorflow-and-google-colab-users-a251d3b5203e)
 
 
