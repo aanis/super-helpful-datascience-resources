@@ -22,6 +22,8 @@
 
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 
+[LeetCode Learn](https://leetcode.com/explore/learn/)
+
 ## Pandas
 
 [Bitbucket: Python Pandas Course](https://bitbucket.org/hrojas/learn-pandas/src/master/)
@@ -76,7 +78,7 @@
 
 [Google Machine Learning Code in Colab Notebook](https://aihub.cloud.google.com/u/0/s?category=notebook)
 
-[auto-sklearn¶](https://automl.github.io/auto-sklearn/master/)
+[auto-sklearn](https://automl.github.io/auto-sklearn/master/)
 
 ## No Code Machine Learning
 
@@ -118,10 +120,20 @@
 
 [Technical interview questions](https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md)
 
+[CodingBat: Code Practise](https://codingbat.com/python)
+
+[HackerRank: SQL](https://www.hackerrank.com/domains/sql)
+
+[HackerRank: Python](https://www.hackerrank.com/domains/python)
+
+
+
 ## Cool Information  
 
 [Data Fallacies to Avoid](https://i.redd.it/itul8iw6z6p31.jpg)
 
 [Google Colab Shortcuts](https://heartbeat.fritz.ai/tensorflow-dev-summit-2020-top-10-tricks-for-tensorflow-and-google-colab-users-a251d3b5203e)
+
+[Google Colab Scratchpad](https://colab.research.google.com/notebooks/empty.ipynb)
 
 
