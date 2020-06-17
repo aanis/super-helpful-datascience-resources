@@ -94,6 +94,8 @@
 
 ## A/B Testing
 
+[A/B Testing Toolkit](https://github.com/aanis/AB_Testing)
+
 [Guidelines for A/B Testing](https://hookedondata.org/guidelines-for-ab-testing/)
 
 ## ETL
