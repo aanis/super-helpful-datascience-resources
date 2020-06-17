@@ -94,7 +94,7 @@
 
 ## A/B Testing
 
-[A/B Testing Toolkit](https://github.com/aanis/AB_Testing)
+[A/B Testing Toolkit](https://github.com/aanis/AB-Testing)
 
 [Guidelines for A/B Testing](https://hookedondata.org/guidelines-for-ab-testing/)
 
