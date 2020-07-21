@@ -10,6 +10,8 @@
 
 [Coderbyte: Learn Python in 1 Week](https://coderbyte.com/course/learn-python-in-one-week)
 
+[Coding Bat: Python Excercises](https://codingbat.com/python)
+
 [Calm Code: Python Coding Hacks](https://calmcode.io)
 
 [Python Cheat Sheet](https://imgur.com/gallery/ri6H5)
